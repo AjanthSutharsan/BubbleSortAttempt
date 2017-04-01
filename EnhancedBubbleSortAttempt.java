@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class BubbleSortAttempt
+public class EnhancedBubbleSortAttempt
 {
     public static void bubbleSort(int[] userArray) {
         boolean trace=true;
